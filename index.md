@@ -1,8 +1,6 @@
-## Saida blog
+### Applied AI/ML projects 
 
 ---
-
-### Applied AI/ML projects  
 
 [Click: Amazon Fine Food Reviews on KNN](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon-Reviews-on-KNN_100K.pdf)
 <img src="images/amaz.png?raw=true"/>
