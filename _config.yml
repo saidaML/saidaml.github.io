@@ -1,14 +1,15 @@
 title: Saida # your name (or website title) here
 logo: "/images/moi.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  -AI/Machine Learning at AAIC 
+  -AI/Machine Learning at AAIC. 
   <br><br>
-  -AI/Machine Learning at AAIC -Data Foundation & Data Analyst ND @Udacity/Mode/Kaggle -Bertelsmann 
-   Data Science Scholar @udacity.  
+  -Data Foundation & Data Analyst ND @Udacity/Mode/Kaggle 
+  <br><br>
+  -Bertelsmann Data Science Scholar @udacity.  
   <br><br>
   -Writer/Author of 2 books.
   <br><br>
   <a href="https://www.linkedin.com/in/saidaah/">View My LinkedIn Profile</a> 
-  
+  <br><br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
