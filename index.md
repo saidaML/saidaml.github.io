@@ -22,7 +22,7 @@
 - [Amazon Fine Food Reviews on KNN](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon-Reviews-on-KNN_100K.pdf)
 - [Amazon Fine Food Reviews on Naive Bayes](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon-Reviews-on-NB_final.pdf)
 - [Amazon Fine Food Reviews on TSNE](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon_Review_TSNE.ipynb)
-- [Haberman](http://example.com/)
+- [Haberman](https://github.com/saidaml/My_AAIC_projects/blob/master/Exercise_habermanfinal.ipynb)
  
 
 ---
