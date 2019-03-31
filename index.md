@@ -6,7 +6,7 @@
 <img src="images/amaz.png?raw=true"/>
 
 ---
-[Click: Amazon Fine Food Reviews on Naive Bayes](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon-Reviews-on-NB_final.pdf)
+[Click: Amazon Fine Food Reviews on Naive Bayes](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon-Reviews-on-NB.ipynb)
 <img src="images/amaz2.jpg?raw=true"/>
 
 ---
