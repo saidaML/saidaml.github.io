@@ -15,7 +15,7 @@
 <img src="images/amaz2.jpg?raw=true"/>
 
 ---
-[Amazon Fine Food Reviews_TSNE](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon_Review_TSNE.ipynb)
+[Amazon Fine Food Reviews_t-SNE](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon_Review_TSNE.ipynb)
 <img src="images/tsne.png?raw=true"/>
 
 ---
@@ -27,7 +27,7 @@
 - [Amazon Fine Food Reviews_Logistic Regression](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon%20Fine%20Food%20Reviews%20Analysis_Logistic%20Regression.pdf)
 - [Amazon Fine Food Reviews_k-NN](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon-Reviews-on-KNN_100K.pdf)
 - [Amazon Fine Food Reviews_Naive Bayes](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon-Reviews-on-NB.pdf)
-- [Amazon Fine Food Reviews_TSNE](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon_Review_TSNE.ipynb)
+- [Amazon Fine Food Reviews_t-SNE](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon_Review_TSNE.ipynb)
 - [Exploratory Data Anaylsis of Haberman Cancer Survival Dataset](https://github.com/saidaml/My_AAIC_projects/blob/master/Exercise_habermanfinal.ipynb)
 
  
