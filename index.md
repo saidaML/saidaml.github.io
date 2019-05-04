@@ -41,7 +41,7 @@
 ---
  
  ---
-<img src="images/Screen Shot 2019-05-04 at 18.58.01.png?raw=true"/>
+<img src="images/clus.png?raw=true"/>
 
 ---
  
