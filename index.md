@@ -16,9 +16,6 @@
 
 ---
 
-- [SGD for linear regression on Boston House Price Dataset](https://github.com/saidaml/My_AAIC_projects/blob/master/06%20Implement%20SGD.pdf)
-
----
 
 - [Amazon Fine Food Reviews_SVM](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon%20Fine%20Food%20Reviews%20Analysis_Support%20Vector%20Machines.pdf)
 
@@ -39,8 +36,16 @@
 - [Exploratory Data Anaylsis of Haberman Cancer Survival Dataset](https://github.com/saidaml/My_AAIC_projects/blob/master/Exercise_habermanfinal.ipynb)
 
 ---
+### Regression 
+
+- [SGD for linear regression on Boston House Price Dataset](https://github.com/saidaml/My_AAIC_projects/blob/master/06%20Implement%20SGD.pdf)
+
+---
  
  ---
+ 
+### K-means, Agglomerative, DBSCAN clustering algorithms on Amazon reviews data set
+
 <img src="images/clus.png?raw=true"/>
 
 ---
