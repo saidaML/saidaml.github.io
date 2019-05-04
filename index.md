@@ -32,6 +32,7 @@
 - [Amazon Fine Food Reviews_t-SNE](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon_Review_TSNE.ipynb)
 
 ---
+### EDA
 
 - [Exploratory Data Anaylsis of Haberman Cancer Survival Dataset](https://github.com/saidaml/My_AAIC_projects/blob/master/Exercise_habermanfinal.ipynb)
 
