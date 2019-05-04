@@ -13,6 +13,7 @@
 [Amazon Fine Food Reviews_Naive Bayes](https://github.com/saidaml/My_AAIC_projects/blob/master/Amazon-Reviews-on-NB.pdf)
 
 ---
+
 - [SGD for linear regression on Boston House Price Dataset](https://github.com/saidaml/My_AAIC_projects/blob/master/06%20Implement%20SGD.pdf)
 
 ---
