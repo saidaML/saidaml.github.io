@@ -55,6 +55,9 @@
 
 ---
 
+- [Amazon Fine Food Reviews Analysis_Truncated SVD.pdf](https://github.com/saidaml/Applied-AI-Course_projects/blob/master/11%20Amazon%20Fine%20Food%20Reviews%20Analysis_Truncated%20SVD.pdf)
+
+
  
 ---
 <p style="font-size:12px"> 
