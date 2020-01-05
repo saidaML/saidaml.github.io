@@ -1,7 +1,7 @@
 title: Saida Sheikh Ahmed  # your name (or website title) here
 logo: "/images/Photo on 28-08-2019 at 17.46.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-    -AI/Machine Learning (Python, Maths, SQL Data Analysis, Machine Learning, Computer Vison and Deep Learning) at AAIC.
+  -AI/Machine Learning (Python, Maths, SQL Data Analysis, Machine Learning, Computer Vison and Deep Learning) at AAIC.
   <br><br>
   Bertelsmann Data Science Scholarship: Data Foundation & Data Analyst Nanodegrees (SQL / Python / R / Tableau) by Udacity/Mode/Kaggle
   <br><br>
@@ -9,6 +9,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/saidaml">Github</a> 
   <a href="https://twitter.com/SaidaAhmedML/">Twitter</a> 
   <a href="https://www.linkedin.com/in/saidaah/">LinkedIn</a> 
+
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
