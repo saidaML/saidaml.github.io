@@ -1,4 +1,4 @@
-### Applied AI/ML projects 
+### Machine Learning projects 
 
 ---
 <img src="images/amaz4.jpeg?raw=true"/>
