@@ -1,4 +1,4 @@
-### Machine Learning projects 
+### My Machine Learning projects 
 
 ---
 <img src="images/amaz4.jpeg?raw=true"/>
