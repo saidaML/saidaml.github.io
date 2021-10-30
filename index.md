@@ -31,7 +31,7 @@ I am Saida, based in Brussels, Belgium I am a Data Scientist, Machine Learning E
 
 
 
-### My Machine Learning projects 
+### Some of my Machine Learning projects 
 
 ---
  <img src="images/amaz4.jpeg?raw=true"/>
