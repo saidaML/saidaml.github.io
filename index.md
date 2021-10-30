@@ -1,4 +1,4 @@
----
+ 
 
 # About Me 
 
@@ -70,8 +70,7 @@ I am somali-belgian based in Brussels, a Data Scientist, Machine Learning Engine
 ## - [SGD for linear regression on Boston House Price Dataset](https://github.com/saidaml/My_AAIC_projects/blob/master/06%20Implement%20SGD.pdf)
 
 ---
- 
- ---
+  
  
 ### K-means, Agglomerative, DBSCAN clustering algorithms on Amazon reviews data set
 
@@ -87,7 +86,7 @@ I am somali-belgian based in Brussels, a Data Scientist, Machine Learning Engine
 
 
  
----
+ 
 <p style="font-size:13px"> 
  
  
