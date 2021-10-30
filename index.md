@@ -7,7 +7,7 @@ I am somali-belgian based in Brussels, a Data Scientist, Machine Learning Engine
 
  
 
-                                                                 
+                                                                
  <br><br> 
  <a href="https://github.com/saidaml">Github</a> 
  <br><br>
@@ -87,7 +87,7 @@ I am somali-belgian based in Brussels, a Data Scientist, Machine Learning Engine
  
 ---
 <p style="font-size:14px"> 
+<p style="align attribute:center"> 
  
-[a | align attribute]
- align="|center" 
+ 
  
