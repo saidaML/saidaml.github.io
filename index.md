@@ -12,13 +12,13 @@ I am somali-belgian based in Brussels, a Data Scientist, Machine Learning Engine
                                                                 
  <br><br> 
  ## <a href="https://github.com/saidaml">Github</a> 
- ## <br><br>
+  <br><br>
  ## <a href="https://twitter.com/Saidawaaye/">Twitter</a> 
- ## <br><br>
+ <br><br>
  ## <a href="https://www.linkedin.com/in/saidaah/">LinkedIn</a> 
- ## <br><br>
+  <br><br>
  ##  <a href="https://www.kaggle.com/saidaa">Kaggle</a> 
- ## <br><br>
+  <br><br>
  ## <a href="https://medium.com/@saida77">Medium</a> 
  <br><br>
    
