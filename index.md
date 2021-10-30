@@ -10,16 +10,16 @@ I am based in Brussels, Belgium I am a Data Scientist, Machine Learning Engineer
 
 
                                                                 
- ## <br><br> 
- <a href="https://github.com/saidaml">Github</a> 
+ <br><br> 
+ ### <a href="https://github.com/saidaml">Github</a> 
   <br><br>
- <a href="https://twitter.com/Saidawaaye/">Twitter</a> 
+ ### <a href="https://twitter.com/Saidawaaye/">Twitter</a> 
  <br><br>
- # <a href="https://www.linkedin.com/in/saidaah/">LinkedIn</a> 
+ ### <a href="https://www.linkedin.com/in/saidaah/">LinkedIn</a> 
   <br><br>
- #  <a href="https://www.kaggle.com/saidaa">Kaggle</a> 
+ ###  <a href="https://www.kaggle.com/saidaa">Kaggle</a> 
   <br><br>
- # <a href="https://medium.com/@saida77">Medium</a> 
+ ### <a href="https://medium.com/@saida77">Medium</a> 
  <br><br>
    
 ---
