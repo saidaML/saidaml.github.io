@@ -29,7 +29,7 @@ I am somali-belgian based in Brussels, a Data Scientist, Machine Learning Engine
 ### My Machine Learning projects 
 
 ---
-### <img src="images/amaz4.jpeg?raw=true"/>
+ <img src="images/amaz4.jpeg?raw=true"/>
 
 ---
 
