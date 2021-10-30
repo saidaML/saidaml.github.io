@@ -7,8 +7,8 @@
  
 I am somali-belgian based in Brussels, a Data Scientist, Machine Learning Engineer, co-founder of the [School of AI Brussels](https://www.meetup.com/School-of-AI-Brussels/) a learning community for everyone who wants to learn about Artificial Intelligence, an Educator/Lecturer of Artificial Intelligence/Data Science/Machine Learning/Deep Learning/Computer vision at the School of AI Brussels and Le Wagon. I am an author of [IS_DHIIB](https://www.amazon.com/dhiib-Somali-Saida-Sheikh-Ahmed/dp/2960077504/ref=sr_1_1?dchild=1&qid=1635630578&refinements=p_27%3ASaida+Sheikh+Ahmed&s=books&sr=1-1&text=Saida+Sheikh+Ahmed) and [Lagaama Roona](https://www.amazon.com/Lagaama-Roona-Somali-Saida-Sheikh/dp/1546504133/ref=sr_1_2?dchild=1&qid=1635630628&refinements=p_27%3ASaida+Sheikh+Ahmed&s=books&sr=1-2&text=Saida+Sheikh+Ahmed) and a [Song writer](https://www.youtube.com/watch?v=SAImrkWEQoE&t=1s).
 
- 
- ------------------
+
+
                                                                 
  <br><br> 
  # <a href="https://github.com/saidaml">Github</a> 
