@@ -9,7 +9,7 @@ I am somali-belgian based in Brussels, a Data Scientist, Machine Learning Engine
  
 ---
                                                                 
- ## <br><br> 
+ <br><br> 
  ## <a href="https://github.com/saidaml">Github</a> 
  ## <br><br>
  ## <a href="https://twitter.com/Saidawaaye/">Twitter</a> 
