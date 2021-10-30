@@ -88,5 +88,6 @@ I am somali-belgian based in Brussels, a Data Scientist, Machine Learning Engine
 ---
 <p style="font-size:14px"> 
  
- 
+[a | align attribute]
+ align="|center" 
  
