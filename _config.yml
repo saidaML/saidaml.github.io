@@ -1,6 +1,9 @@
-   <br><br> 
+ 
 title: Home # your name (or website title) here
-   <br><br> 
+ 
+ 
+ 
+<br><br> 
 <a href="https://github.com/saidaml">Github</a> 
 <a href="https://twitter.com/Saidawaaye/">Twitter</a> 
 <a href="https://www.linkedin.com/in/saidaah/">LinkedIn</a> 
@@ -8,7 +11,7 @@ title: Home # your name (or website title) here
 <a href="https://medium.com/@saida77">Medium</a> 
  
  
-  <br><br> 
+<br><br> 
  theme: jekyll-theme-minimal
  
 
