@@ -1,9 +1,8 @@
-
-
+ <br><br> 
 title: Contacts # your name (or website title) here
+ <br><br> 
 
- 
- 
+
   <br><br> 
  <a href="https://github.com/saidaml">Github</a> 
  
@@ -19,10 +18,9 @@ title: Contacts # your name (or website title) here
   <br><br> 
  
  <a href="https://medium.com/@saida77">Medium</a> 
+  <br><br> 
  
-  
- 
- 
+
 
 
  theme: jekyll-theme-minimal
