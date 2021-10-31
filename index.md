@@ -4,7 +4,7 @@
 
 <img src="images/Photo on 28-08-2019 at 17.46.jpg?raw=true"/>
  
-My name is Saida, and I’m a Data Scientist, Machine Learning Engineer based in Belgium, Brussels. I co-founded the [School of AI Brussels](https://www.meetup.com/School-of-AI-Brussels/), which is an educational institute for anyone interested in studying Artificial Intelligence. Im also a lecturer at the School of AI Brussels and Le Wagon, where I teach Artificial Intelligence, Data Science, Deep Learning and Computer vision.
+My name is Saida, and I’m a Data Scientist, Machine Learning Engineer based in Belgium, Brussels. I co-founded the [School of AI Brussels](https://www.meetup.com/School-of-AI-Brussels/), which is an educational institute for anyone interested in studying Artificial Intelligence. Im also a lecturer at the School of AI Brussels and Le Wagon, where I teach Artificial Intelligence (Data Science, Machine Learning, Deep Learning and Computer vision).
 Aside from work in Computer Science and AI technology, I am the author of [IS-DHIIB](https://www.amazon.com/dhiib-Somali-Saida-Sheikh-Ahmed/dp/2960077504/ref=sr_1_1?dchild=1&qid=1635630578&refinements=p_27%3ASaida+Sheikh+Ahmed&s=books&sr=1-1&text=Saida+Sheikh+Ahmed) and [Lagaama Roona](https://www.amazon.com/Lagaama-Roona-Somali-Saida-Sheikh/dp/1546504133/ref=sr_1_2?dchild=1&qid=1635630628&refinements=p_27%3ASaida+Sheikh+Ahmed&s=books&sr=1-2&text=Saida+Sheikh+Ahmed). In addition to writing books, I am also a [Song writer](https://www.youtube.com/watch?v=SAImrkWEQoE&t=1s).
  
 ---                                                         
